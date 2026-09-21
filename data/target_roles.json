@@ -1,0 +1,125 @@
+{
+  "AI Engineer": {
+    "core_skills": [
+      "Python",
+      "LLM Application Development",
+      "Prompt Engineering",
+      "Retrieval-Augmented Generation (RAG)",
+      "Vector Databases",
+      "Embeddings & Semantic Search"
+    ],
+    "supporting_skills": [
+      "REST APIs",
+      "Git & Version Control",
+      "Data Preprocessing",
+      "System Prompting & Evaluation"
+    ],
+    "tools_and_technologies": [
+      "LangChain",
+      "LlamaIndex",
+      "Pinecone",
+      "ChromaDB",
+      "FastAPI",
+      "OpenAI API / Gemini API"
+    ],
+    "recommended_knowledge_areas": [
+      "Vector Indexing Mechanics",
+      "Chunking Strategies",
+      "LLM Fine-Tuning Basics",
+      "Agentic Tool Use & Orchestration"
+    ]
+  },
+  "Data Scientist": {
+    "core_skills": [
+      "Python",
+      "SQL & Data Querying",
+      "Exploratory Data Analysis (EDA)",
+      "Machine Learning Algorithms",
+      "Statistical Analysis & Hypothesis Testing",
+      "Data Visualization"
+    ],
+    "supporting_skills": [
+      "Git & Version Control",
+      "Data Cleaning & Wrangling",
+      "Feature Engineering",
+      "Model Evaluation Metrics"
+    ],
+    "tools_and_technologies": [
+      "Pandas",
+      "NumPy",
+      "Scikit-Learn",
+      "Matplotlib",
+      "Seaborn",
+      "Jupyter Notebooks",
+      "PostgreSQL"
+    ],
+    "recommended_knowledge_areas": [
+      "Regression & Classification Models",
+      "A/B Testing Methodology",
+      "Time Series Forecasting",
+      "Dimensionality Reduction"
+    ]
+  },
+  "Full Stack Developer": {
+    "core_skills": [
+      "JavaScript / TypeScript",
+      "Frontend Web Development (React / Next.js)",
+      "Backend Web Development (Node.js / Python / Express)",
+      "RESTful API Design",
+      "Database Modeling & Management (SQL / NoSQL)",
+      "State Management"
+    ],
+    "supporting_skills": [
+      "Git & GitHub Workflow",
+      "Authentication & Authorization (JWT / OAuth)",
+      "HTML5 & CSS3 Styling",
+      "Web Security Fundamentals"
+    ],
+    "tools_and_technologies": [
+      "React",
+      "Node.js",
+      "Express",
+      "PostgreSQL",
+      "MongoDB",
+      "Docker",
+      "Git"
+    ],
+    "recommended_knowledge_areas": [
+      "Client-Server Architecture",
+      "Component Lifecycle & Hooks",
+      "ORM & Database Migrations",
+      "CI/CD Pipeline Integration"
+    ]
+  },
+  "Machine Learning Engineer": {
+    "core_skills": [
+      "Python",
+      "Deep Learning Architectures",
+      "Machine Learning Model Training",
+      "Model Deployment & MLOps",
+      "PyTorch / TensorFlow",
+      "Feature Pipeline Engineering"
+    ],
+    "supporting_skills": [
+      "Git & Version Control",
+      "Linux Shell Scripting",
+      "Containerization",
+      "Model Monitoring & Logging"
+    ],
+    "tools_and_technologies": [
+      "PyTorch",
+      "TensorFlow",
+      "MLflow",
+      "Docker",
+      "Kubernetes",
+      "Scikit-Learn",
+      "CUDA"
+    ],
+    "recommended_knowledge_areas": [
+      "Convolutional & Transformer Networks",
+      "Distributed Model Training",
+      "Hyperparameter Tuning & AutoML",
+      "Model Quantization & Inference Optimization"
+    ]
+  }
+}
